@@ -15,14 +15,6 @@ For the python based command line client see:
 https://github.com/ethereum/pyethapp
 
 
-+-----------+------------------+------------------+--------------------+--------------------+
-|           | Linux            | OSX              | Travis             | Coverage           |
-+-----------+------------------+------------------+--------------------+--------------------+
-| develop   | |Linux develop|  | |OSX develop|    | |Travis develop|   | |Coverage develop| |
-+-----------+------------------+------------------+--------------------+--------------------+
-| master    | |Linux master|   | |OSX master|     | |Travis master|    | |Coverage master|  |
-+-----------+------------------+------------------+--------------------+--------------------+
-
 Quickstart
 -------------
 
